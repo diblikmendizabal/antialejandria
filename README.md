@@ -1,34 +1,24 @@
-# 🌟 Antialejandria  
+# 🌟 Punto Encuentro
 
-**Antialejandria** es una plataforma web creada para los amantes de los libros. Aquí puedes construir y organizar tu **antibiblioteca personal**, llevar el control de tus lecturas y descubrir nuevas historias de forma sencilla y visual.  
+**Punto Encuentro** es una plataforma web diseñada para **amantes de los libros**. Con un diseño responsivo e intuitivo, puedes **organizar tu biblioteca personal**, actualizar el estado de tus lecturas y descubrir nuevas historias.
 
-Su diseño minimalista, responsivo e intuitivo está pensado para ofrecerte una experiencia tranquila y envolvente en el mundo de la lectura.  
+## 📌 Características
 
----
+- 📖 **Gestiona tus libros**: Marca tus lecturas como **leídos, en lectura, por leer y favoritos**.
+- 🎭 **Explora géneros literarios**: Filtra tus libros por **Ficción, No Ficción, Terror, Fantasía, Romance, Misterio, Ciencia Ficción y Drama**.
+- 🖼️ **Personaliza tu perfil**: Cambia tu avatar entre **9 opciones diferentes**, edita tu **nombre, género favorito** y tu **descripción personal**.
+- 🔐 **Registro e inicio de sesión**: Guarda tu progreso y sincroniza tu biblioteca.
+- 📚 **Google Books API**: Accede a información detallada de libros con integración directa a la API.
 
-## 📌 Características  
+## 🚀 Tecnologías utilizadas
 
-- 📖 **Gestión de lecturas**: Marca tus libros como *en lectura*, *por leer* o *favoritos*.  
-- 🎭 **Exploración por géneros**: Filtra tus libros entre *No Ficción, Terror, Fantasía, Romance, Misterio, Ciencia Ficción* y *Drama*.  
-- 🖼️ **Perfil personalizable**: Cambia tu avatar entre 9 opciones, edita tu nombre, selecciona tu género favorito y añade una breve descripción.  
-- 🔐 **Registro e inicio de sesión**: Guarda tu progreso y sincroniza tu antibiblioteca en cualquier dispositivo.  
-- 📚 **Integración con Google Books API**: Accede a información detallada de cada libro de forma inmediata.  
+Punto Encuentro se desarrolla utilizando herramientas modernas para mejorar la experiencia del usuario:
 
----
-
-## 🚀 Tecnologías utilizadas  
-
-Antialejandria está desarrollada con tecnologías modernas que garantizan rendimiento, organización y facilidad de mantenimiento:  
-
-- ⚡ **Vite** → Entorno de desarrollo rápido.  
-- ⚛️ **React** → Creación de componentes dinámicos y reutilizables.  
-- 🏗️ **Tailwind CSS** → Estilo moderno y diseño responsivo.  
-- ✅ **ESLint** → Código limpio y estructurado.  
-- 🖥️ **HTML, CSS, JavaScript** → Base sólida del frontend.  
-- 🔧 **Visual Studio Code** → Editor de código principal.  
-- 🗂️ **Git & GitHub** → Control de versiones y colaboración.  
-- 📜 **Git Bash** → Gestión eficiente de repositorios.  
-
----
-
-👉 Con Antialejandria, tu pasión por la lectura se convierte en una experiencia digital organizada, tranquila y personalizada.  
+- ⚡ **Vite**: Entorno de desarrollo rápido.
+- ⚛️ **React**: Construcción de componentes dinámicos.
+- 🏗️ **Tailwind CSS**: Diseño responsivo y moderno.
+- ✅ **ESLint**: Código limpio y estructurado.
+- 🖥️ **HTML, CSS, JavaScript**: Base del desarrollo frontend.
+- 🔧 **Visual Studio Code**: Editor de código.
+- 🗂️ **Git & GitHub**: Control de versiones y colaboración.
+- 📜 **Git Bash**: Gestión eficiente de repositorios.
